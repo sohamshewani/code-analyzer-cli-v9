@@ -1,0 +1,1 @@
+A multi-component CLI utility integrating an abstract syntax tree (AST)-based static code analyzer, a SQLite-backed local cache for code metrics, and an asynchronous concurrency tester for API endpoints, all wrapped in a unified command-line interface.
